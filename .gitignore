@@ -7,4 +7,18 @@
 # Allow directory traversal
 !*/
 
+# --- Explicitly tracked configs ---
+!nvim/
+!nvim/**
 
+!hypr/
+!hypr/**
+
+!waybar/
+!waybar/**
+
+!alacritty/
+!alacritty/**
+
+!fish/
+!fish/**
